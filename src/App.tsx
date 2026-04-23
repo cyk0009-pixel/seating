@@ -27,7 +27,7 @@ import {
 const TABLE_CAPACITY = 10;
 const STAGE_DEFAULT: LayoutElement = { 
   id: 'stage-primary', 
-  type: '스테이지', 
+  type: 'STAGE', 
   name: '무대', 
   x: 350, 
   y: 30, 
